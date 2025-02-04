@@ -30,7 +30,3 @@ This project highlights the **importance of SQL in business intelligence** and *
 - Enhance **operational efficiency**  
 - Make **data-driven decisions** faster and smarter  
 
-## 🚀 Check out the full analysis in the SQL queries and Power BI reports!  
-Let’s connect and discuss how data can drive better decision-making in the **consumer goods industry!**  
-
-#SQL #DataAnalytics #PowerBI #BusinessIntelligence #ConsumerGoods #DataDriven #AtliQHardware #DataStorytelling  
